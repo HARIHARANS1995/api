@@ -1,4 +1,20 @@
 {
+  "args": {}, 
+  "headers": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9", 
+    "Accept-Encoding": "gzip, deflate, br", 
+    "Accept-Language": "en-US,en;q=0.9", 
+    "Host": "httpbin.org", 
+    "Sec-Fetch-Dest": "document", 
+    "Sec-Fetch-Mode": "navigate", 
+    "Sec-Fetch-Site": "none", 
+    "Upgrade-Insecure-Requests": "1", 
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36", 
+    "X-Amzn-Trace-Id": "Root=1-5e61f69b-930c4be74385f78536607f9b"
+  }, 
+  "origin": "122.164.220.232", 
+  "url": "https://httpbin.org/get"
+
   "users": [
     {
       "id": 1,
